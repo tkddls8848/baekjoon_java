@@ -1,6 +1,6 @@
 package coTebook.chapter9;
 import java.util.Arrays;
-
+//https://kim6394.tistory.com/174
     public class Dijkstra{
 
         public static void main(String[] args){
